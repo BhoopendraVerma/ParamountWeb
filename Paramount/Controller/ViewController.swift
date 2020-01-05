@@ -13,7 +13,6 @@ class ViewController: UIViewController,UITextFieldDelegate {
     var service = ServerHandler()
     var appd = AppDelegate()
     
-    
     @IBOutlet var phoneNmbrView: UIView!
     @IBOutlet var pinView: UIView!
     @IBOutlet var mobileTF: UITextField!

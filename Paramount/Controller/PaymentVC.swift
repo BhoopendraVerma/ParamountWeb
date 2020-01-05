@@ -19,7 +19,6 @@ class PaymentVC: UIViewController,UITextFieldDelegate
     @IBOutlet var amountTF: UITextField!
     @IBOutlet var netAmoutTF: UITextField!
     @IBOutlet var menuBTN: UIButton!
-
     @IBOutlet var hundredBTN: UIButton!
     @IBOutlet var fiftyBTN: UIButton!
     @IBOutlet var foutyFiveBTN: UIButton!
