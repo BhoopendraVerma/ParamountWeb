@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-// Used this enum for api name.
+// Used this enum for Api name.
 typedef enum
 {
     ServiceTypeLogin,
